@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emart/static/css/main.4483eddf.css",
+    "main.js": "/emart/static/js/main.db5e018c.js",
+    "static/js/787.76b72599.chunk.js": "/emart/static/js/787.76b72599.chunk.js",
+    "static/media/logo.svg": "/emart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emart/index.html",
+    "main.4483eddf.css.map": "/emart/static/css/main.4483eddf.css.map",
+    "main.db5e018c.js.map": "/emart/static/js/main.db5e018c.js.map",
+    "787.76b72599.chunk.js.map": "/emart/static/js/787.76b72599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4483eddf.css",
+    "static/js/main.db5e018c.js"
+  ]
+}
